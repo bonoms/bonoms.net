@@ -7,34 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Lorenzo Bonomi</copyright>
-    <lastBuildDate>Tue, 21 Feb 2023 10:54:08 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2023 10:54:08 +0200</lastBuildDate>
     <atom:link href="https://bonoms.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cycling</title>
-      <link>https://bonoms.net/tags/cycling/</link>
-      <pubDate>Tue, 21 Feb 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/tags/cycling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Powermeter</title>
-      <link>https://bonoms.net/tags/powermeter/</link>
-      <pubDate>Tue, 21 Feb 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/tags/powermeter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Science</title>
-      <link>https://bonoms.net/tags/science/</link>
-      <pubDate>Tue, 21 Feb 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/tags/science/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Carbs</title>
       <link>https://bonoms.net/tags/carbs/</link>
       <pubDate>Sun, 05 Feb 2023 10:54:08 +0200</pubDate>
       <guid>https://bonoms.net/tags/carbs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cycling</title>
+      <link>https://bonoms.net/tags/cycling/</link>
+      <pubDate>Sun, 05 Feb 2023 10:54:08 +0200</pubDate>
+      <guid>https://bonoms.net/tags/cycling/</guid>
       <description></description>
     </item>
     <item>
