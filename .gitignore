@@ -1,0 +1,12 @@
+/.DS_Store
+/.hugo_build.lock
+/.obsidian
+/archetypes
+/bonoms.com.code-workspace
+/config.toml
+/content
+/data
+/layouts
+/resources
+/static
+/themes

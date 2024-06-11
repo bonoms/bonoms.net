@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on bonoms.net</title>
+    <link>https://bonoms.net/about/</link>
+    <description>Recent content in Abouts on bonoms.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Lorenzo Bonomi</copyright>
+    <lastBuildDate>Mon, 21 Nov 2022 10:54:08 +0200</lastBuildDate>
+    <atom:link href="https://bonoms.net/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who is bonoms?</title>
+      <link>https://bonoms.net/about/about/</link>
+      <pubDate>Mon, 21 Nov 2022 10:54:08 +0200</pubDate>
+      <guid>https://bonoms.net/about/about/</guid>
+      <description>Welcome to my website! If you&amp;rsquo;re curious about who I am, u&amp;rsquo;re in the right spot.&#xA;Yes, I&amp;rsquo;ve changed a bit since then, but that&amp;rsquo;s life (fucking good song of FS). Currently, I&amp;rsquo;m studying Physical Engineering at Politecnico di Milano, but my home base is in Valtellina, a valley in the Italian Alps. Stick around!!</description>
+    </item>
+  </channel>
+</rss>

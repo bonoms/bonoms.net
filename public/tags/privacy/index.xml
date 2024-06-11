@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on bonoms</title>
+    <link>https://bonoms.netlify.app/tags/privacy/</link>
+    <description>Recent content in privacy on bonoms</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Lorenzo Bonomi</copyright><atom:link href="https://bonoms.netlify.app/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La sfera privata (in)violabile</title>
+      <link>https://bonoms.netlify.app/posts/diritti_inviolabili/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bonoms.netlify.app/posts/diritti_inviolabili/</guid>
+      <description>**COMPITO FATTO PER SIR POLA, PROFESSORE DI FILOSOFIA. In ogni caso credo a quello che ho scritto. **
+I diritti civili, in uno stato liberale, sono i presupposti fondamentali per il corretto funzionamento di esso. Il giurista e filosofo John Lock, già alla fine del XVII secolo, individuò lo stato giusto come l’istituzione posta a difesa di questi diritti. Vennero declinati dal filosofo come un insieme di prerogative garantite alle persone fisiche e giuridiche, nei termini di vita, libertà e proprietà; sono tutti diritti intrecciati tra loro e di medesima importanza.</description>
+    </item>
+    
+  </channel>
+</rss>
