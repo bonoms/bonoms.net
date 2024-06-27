@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on bonoms.net</title>
-    <link>https://bonoms.net/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on bonoms.net</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Lorenzo Bonomi</copyright>
     <lastBuildDate>Mon, 20 May 2024 10:13:40 +0200</lastBuildDate>
-    <atom:link href="https://bonoms.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Where to Hitch a Sling on an Axle in Crevasse Rescue - Overkill Analysis</title>
-      <link>https://bonoms.net/posts/puntopicca/</link>
+      <link>http://localhost:1313/posts/puntopicca/</link>
       <pubDate>Mon, 20 May 2024 10:13:40 +0200</pubDate>
-      <guid>https://bonoms.net/posts/puntopicca/</guid>
+      <guid>http://localhost:1313/posts/puntopicca/</guid>
       <description>While I was on a glacier yesterday, we were practicing some crevasse rescue operations. The glacier was covered in deep snow. The most common thing to do when a person falls into a crevasse is to firstly secure the person with a glacier sling attached to an axle placed vertically. Then you have to make two fixed points to recover the person with a hoist.&#xA;In the case of a glacier exposed with ice, you can simply use ice screws, but in the case of yesterday&amp;rsquo;s scenario, it is common to dig an axle with a sling coming out and build an anchor from it.</description>
     </item>
     <item>
+      <title>Sexy climbing gear</title>
+      <link>http://localhost:1313/posts/math-and-cams/</link>
+      <pubDate>Thu, 09 Nov 2023 10:54:08 +0200</pubDate>
+      <guid>http://localhost:1313/posts/math-and-cams/</guid>
+      <description>I think I&amp;rsquo;m in love with this piece of gear. It uses a logarithmic spiral to convert downward force into a normal force on the sides. Physically, it holds independent of the pull force, as shown in the next photo. The condition only takes into account the friction coefficient. It can work in perfectly parallel cracks witch is amazing.&#xA;A logaritmic spyral is a curuve with this parametric equation in cartesian coordinates:</description>
+    </item>
+    <item>
       <title>How to fuel in cycling, myth BUSTED!</title>
-      <link>https://bonoms.net/posts/carbs-intake/</link>
+      <link>http://localhost:1313/posts/carbs-intake/</link>
       <pubDate>Sun, 05 Feb 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/posts/carbs-intake/</guid>
+      <guid>http://localhost:1313/posts/carbs-intake/</guid>
       <description>Hey, let&amp;rsquo;s talk about cycling nutrition, a topic often misunderstood. While I&amp;rsquo;m not a nutritionist, I&amp;rsquo;ve observed some common misconceptions. For instance, every cycling daddy I know in the week-end goes put for 150k rides without eating&amp;hellip;&#xA;Carb the fuck up You might think that during low-intensity rides (regular pace for a &amp;gt;100k ride), your body primarily burns fat for fuel. While there&amp;rsquo;s truth to this, recent evidence suggests that even at low intensities, carbohydrates play a significant role in fueling your ride.</description>
     </item>
     <item>
       <title>Absolute Black CRAP oval chainring</title>
-      <link>https://bonoms.net/posts/crap/</link>
+      <link>http://localhost:1313/posts/crap/</link>
       <pubDate>Sat, 05 Feb 2022 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/posts/crap/</guid>
+      <guid>http://localhost:1313/posts/crap/</guid>
       <description>Got some issues with absolute black oval chainring: shifting after not many km is impossible. Also issues with powermeter displaying too many watts :(( i&amp;rsquo;m gonna give a physical explaination soon</description>
     </item>
   </channel>

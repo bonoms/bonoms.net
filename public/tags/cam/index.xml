@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cam on bonoms.net</title>
-    <link>https://bonoms.net/tags/cam/</link>
+    <link>http://localhost:1313/tags/cam/</link>
     <description>Recent content in Cam on bonoms.net</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Lorenzo Bonomi</copyright>
-    <atom:link href="https://bonoms.net/tags/cam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 10:54:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cam/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>using math to show off how sexy is a cam</title>
-      <link>https://bonoms.net/posts/math-and-cams/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bonoms.net/posts/math-and-cams/</guid>
-      <description>Hi my beautiful friends, in this little work i&amp;rsquo;ve done i want to show how a cam works from a mathematical and physical standpoint.&#xA;So, what is a cam? A cam is a device used to safely (or somewhat) climb on routes where there&amp;rsquo;re not fixed bolts. On such climbs it is demanded to add so called &amp;ldquo;quick protection&amp;rdquo; to arrrest a fall if necessary. Since you&amp;rsquo;ve come across this blog probably you happily now what i&amp;rsquo;m talking about, here&amp;rsquo;s a image of this sexy tool:</description>
+      <title>Sexy climbing gear</title>
+      <link>http://localhost:1313/posts/math-and-cams/</link>
+      <pubDate>Thu, 09 Nov 2023 10:54:08 +0200</pubDate>
+      <guid>http://localhost:1313/posts/math-and-cams/</guid>
+      <description>I think I&amp;rsquo;m in love with this piece of gear. It uses a logarithmic spiral to convert downward force into a normal force on the sides. Physically, it holds independent of the pull force, as shown in the next photo. The condition only takes into account the friction coefficient. It can work in perfectly parallel cracks witch is amazing.&#xA;A logaritmic spyral is a curuve with this parametric equation in cartesian coordinates:</description>
     </item>
   </channel>
 </rss>

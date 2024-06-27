@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chainring on bonoms.net</title>
-    <link>https://bonoms.net/tags/chainring/</link>
+    <link>http://localhost:1313/tags/chainring/</link>
     <description>Recent content in Chainring on bonoms.net</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Lorenzo Bonomi</copyright>
     <lastBuildDate>Sat, 05 Feb 2022 10:54:08 +0200</lastBuildDate>
-    <atom:link href="https://bonoms.net/tags/chainring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chainring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Absolute Black CRAP oval chainring</title>
-      <link>https://bonoms.net/posts/crap/</link>
+      <link>http://localhost:1313/posts/crap/</link>
       <pubDate>Sat, 05 Feb 2022 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/posts/crap/</guid>
+      <guid>http://localhost:1313/posts/crap/</guid>
       <description>Got some issues with absolute black oval chainring: shifting after not many km is impossible. Also issues with powermeter displaying too many watts :(( i&amp;rsquo;m gonna give a physical explaination soon</description>
     </item>
   </channel>
