@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Lorenzo Bonomi</copyright>
-    <lastBuildDate>Mon, 20 May 2024 10:13:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 10:54:08 +0200</lastBuildDate>
     <atom:link href="https://bonoms.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sexy climbing gear</title>
+      <link>https://bonoms.net/posts/math-and-cams/</link>
+      <pubDate>Sat, 22 Jun 2024 10:54:08 +0200</pubDate>
+      <guid>https://bonoms.net/posts/math-and-cams/</guid>
+      <description>I think I&amp;rsquo;m in love with this piece of gear. It uses a logarithmic spiral to convert downward force into a normal force on the sides. Physically, it holds independent of the pull force, as shown in the next photo. The condition only takes into account the friction coefficient. It can work in perfectly parallel cracks witch is amazing.&#xA;A logaritmic spyral is a curuve with this parametric equation in cartesian coordinates:</description>
+    </item>
     <item>
       <title>Where to Hitch a Sling on an Axle in Crevasse Rescue - Overkill Analysis</title>
       <link>https://bonoms.net/posts/puntopicca/</link>
@@ -29,13 +36,6 @@
       <pubDate>Sat, 05 Feb 2022 10:54:08 +0200</pubDate>
       <guid>https://bonoms.net/posts/crap/</guid>
       <description>Got some issues with absolute black oval chainring: shifting after not many km is impossible. Also issues with powermeter displaying too many watts :(( i&amp;rsquo;m gonna give a physical explaination soon</description>
-    </item>
-    <item>
-      <title>Sexy climbing gear</title>
-      <link>https://bonoms.net/posts/math-and-cams/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bonoms.net/posts/math-and-cams/</guid>
-      <description>I think I&amp;rsquo;m in love with this piece of gear. It uses a logarithmic spiral to convert downward force into a normal force on the sides. Physically, it holds independent of the pull force, as shown in the next photo. The condition only takes into account the friction coefficient. It can work in perfectly parallel cracks witch is amazing.&#xA;A logaritmic spyral is a curuve with this parametric equation in cartesian coordinates:</description>
     </item>
   </channel>
 </rss>

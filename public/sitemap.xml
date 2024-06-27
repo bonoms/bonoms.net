@@ -3,10 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bonoms.net/</loc>
-    <lastmod>2024-05-20T10:13:40+02:00</lastmod>
+    <lastmod>2024-06-22T10:54:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bonoms.net/tags/cam/</loc>
+    <lastmod>2024-06-22T10:54:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bonoms.net/tags/climbing/</loc>
+    <lastmod>2024-06-22T10:54:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bonoms.net/tags/how-to-not-die/</loc>
+    <lastmod>2024-06-22T10:54:08+02:00</lastmod>
   </url><url>
     <loc>https://bonoms.net/posts/</loc>
-    <lastmod>2024-05-20T10:13:40+02:00</lastmod>
+    <lastmod>2024-06-22T10:54:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bonoms.net/posts/math-and-cams/</loc>
+    <lastmod>2024-06-22T10:54:08+02:00</lastmod>
+  </url><url>
+    <loc>https://bonoms.net/tags/</loc>
+    <lastmod>2024-06-22T10:54:08+02:00</lastmod>
   </url><url>
     <loc>https://bonoms.net/posts/puntopicca/</loc>
     <lastmod>2024-05-20T10:13:40+02:00</lastmod>
@@ -35,9 +50,6 @@
     <loc>https://bonoms.net/tags/nutrition/</loc>
     <lastmod>2023-02-05T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.net/tags/</loc>
-    <lastmod>2023-02-05T10:54:08+02:00</lastmod>
-  </url><url>
     <loc>https://bonoms.net/about/</loc>
     <lastmod>2022-11-21T10:54:08+02:00</lastmod>
   </url><url>
@@ -56,14 +68,6 @@
     <loc>https://bonoms.net/tags/crap/</loc>
     <lastmod>2022-02-05T10:54:08+02:00</lastmod>
   </url><url>
-    <loc>https://bonoms.net/tags/cam/</loc>
-  </url><url>
     <loc>https://bonoms.net/categories/</loc>
-  </url><url>
-    <loc>https://bonoms.net/tags/climbing/</loc>
-  </url><url>
-    <loc>https://bonoms.net/tags/how-to-not-die/</loc>
-  </url><url>
-    <loc>https://bonoms.net/posts/math-and-cams/</loc>
   </url>
 </urlset>
