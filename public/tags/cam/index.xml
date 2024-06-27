@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cam on bonoms.net</title>
-    <link>http://localhost:1313/tags/cam/</link>
+    <link>https://bonoms.net/tags/cam/</link>
     <description>Recent content in Cam on bonoms.net</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Lorenzo Bonomi</copyright>
     <lastBuildDate>Thu, 09 Nov 2023 10:54:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bonoms.net/tags/cam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sexy climbing gear</title>
-      <link>http://localhost:1313/posts/math-and-cams/</link>
+      <link>https://bonoms.net/posts/math-and-cams/</link>
       <pubDate>Thu, 09 Nov 2023 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/posts/math-and-cams/</guid>
+      <guid>https://bonoms.net/posts/math-and-cams/</guid>
       <description>I think I&amp;rsquo;m in love with this piece of gear. It uses a logarithmic spiral to convert downward force into a normal force on the sides. Physically, it holds independent of the pull force, as shown in the next photo. The condition only takes into account the friction coefficient. It can work in perfectly parallel cracks witch is amazing.&#xA;A logaritmic spyral is a curuve with this parametric equation in cartesian coordinates:</description>
     </item>
   </channel>
