@@ -7,12 +7,11 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Lorenzo Bonomi</copyright>
-    <lastBuildDate>Thu, 09 Nov 2023 10:54:08 +0200</lastBuildDate>
     <atom:link href="https://bonoms.net/tags/cam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sexy climbing gear</title>
       <link>https://bonoms.net/posts/math-and-cams/</link>
-      <pubDate>Thu, 09 Nov 2023 10:54:08 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://bonoms.net/posts/math-and-cams/</guid>
       <description>I think I&amp;rsquo;m in love with this piece of gear. It uses a logarithmic spiral to convert downward force into a normal force on the sides. Physically, it holds independent of the pull force, as shown in the next photo. The condition only takes into account the friction coefficient. It can work in perfectly parallel cracks witch is amazing.&#xA;A logaritmic spyral is a curuve with this parametric equation in cartesian coordinates:</description>
     </item>
