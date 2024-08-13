@@ -2,102 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bonoms.net</title>
-    <link>http://localhost:1313/</link>
+    <link>https://bonoms.net/</link>
     <description>Recent content on bonoms.net</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>©Bonoms</copyright>
     <lastBuildDate>Sat, 22 Jun 2024 10:54:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bonoms.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sexy climbing gear</title>
-      <link>http://localhost:1313/posts/math-and-cams/</link>
+      <link>https://bonoms.net/posts/math-and-cams/</link>
       <pubDate>Sat, 22 Jun 2024 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/posts/math-and-cams/</guid>
+      <guid>https://bonoms.net/posts/math-and-cams/</guid>
       <description>I think I&amp;rsquo;m in love with this piece of gear. It uses a logarithmic spiral to convert downward force into a normal force on the sides. Physically, it holds independent of the pull force, as shown in the next photo. The condition only takes into account the friction coefficient. It can work in perfectly parallel cracks witch is amazing.&#xA;A logaritmic spyral is a curuve with this parametric equation in cartesian coordinates:</description>
     </item>
     <item>
       <title>Where to Hitch a Sling on an Axle in Crevasse Rescue - Overkill Analysis</title>
-      <link>http://localhost:1313/posts/puntopicca/</link>
+      <link>https://bonoms.net/posts/puntopicca/</link>
       <pubDate>Mon, 20 May 2024 10:13:40 +0200</pubDate>
-      <guid>http://localhost:1313/posts/puntopicca/</guid>
+      <guid>https://bonoms.net/posts/puntopicca/</guid>
       <description>While I was on a glacier yesterday, we were practicing some crevasse rescue operations. The glacier was covered in deep snow. The most common thing to do when a person falls into a crevasse is to firstly secure the person with a glacier sling attached to an axle placed vertically. Then you have to make two fixed points to recover the person with a hoist.&#xA;In the case of a glacier exposed with ice, you can simply use ice screws, but in the case of yesterday&amp;rsquo;s scenario, it is common to dig an axle with a sling coming out and build an anchor from it.</description>
     </item>
     <item>
       <title>Alpinismo - Piz Argient</title>
-      <link>http://localhost:1313/mountain/piz-argient/</link>
+      <link>https://bonoms.net/mountain/piz-argient/</link>
       <pubDate>Thu, 09 May 2024 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/mountain/piz-argient/</guid>
+      <guid>https://bonoms.net/mountain/piz-argient/</guid>
       <description>Descrizione Altitudine: 3.943 mt&#xA;Tempo salita: 6h da Marinelli&#xA;Difficoltà: PD&#xA;Punto di appoggio: Rifugio Marinelli (2813 mt), Rifugio Marco e Rosa (3609 mt)&#xA;Il primo giorno parcheggiare l’auto presso le dighe di Campo Moro (Lanzada) e seguire il sentiero che porta al rifugio Marinelli (3h), dove si può pernottare. In alternativa, si può dormire al rifugio Marco e Rosa che è in ogni caso di strada: proseguire oltre il rifugio Marinelli seguendo il sentiero che porta al passo Marinelli occidentale.</description>
     </item>
     <item>
       <title>Alpinismo - Cima Presanella</title>
-      <link>http://localhost:1313/mountain/presanella/</link>
+      <link>https://bonoms.net/mountain/presanella/</link>
       <pubDate>Sun, 11 Jun 2023 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/mountain/presanella/</guid>
+      <guid>https://bonoms.net/mountain/presanella/</guid>
       <description>Descrizione Una scammellata di 12 ore, ottimo per chi non ha mai provato l&amp;rsquo;ambiente alta montagna e vuole avvicinarsi all&amp;rsquo;utilizzo di picca e ramponi (ovviamente necessari per questo itinerario). Difatti questa è stata la mia prima esperienza in alta quota, non scrivo altro perchè non ero molto attento ai passaggi e scrivo a distanza di mesi quindi questa non va assolutamente considerata come relazione, si possono però apprezzare le foto :)</description>
     </item>
     <item>
       <title>Skimo - Anticima Gavia &#43; Passo Nord Zebrù</title>
-      <link>http://localhost:1313/mountain/forni/</link>
+      <link>https://bonoms.net/mountain/forni/</link>
       <pubDate>Sun, 12 Mar 2023 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/mountain/forni/</guid>
+      <guid>https://bonoms.net/mountain/forni/</guid>
       <description>Descrizione Belissima gita sulla strada innevata del passo gavia, il pendio è inizialmente molto dolve e si sviluppa bene. Ambiente top. Dopo aver dormito in rifugio il secondo giorno abbiamo girato per il passo zebrù trovando tuttavia neve molto ventata, abbiamo girato i tacchi e siamo andati a berci la birra.&#xA;Traccia anticima Gavia Traccia passo nord Zebrù Foto </description>
     </item>
     <item>
-      <title>How to Install the Cinestyle Preset on Canon Cameras: A Step-by-Step Guide</title>
-      <link>http://localhost:1313/posts/cinestyle/</link>
-      <pubDate>Wed, 08 Mar 2023 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cinestyle/</guid>
-      <description>Cinestyle is a popular camera preset that is widely used in the film and video production industry. It is a picture style that is designed to give Canon cameras a flatter and more neutral color profile. This allows for greater flexibility in post-production, giving filmmakers more control over the final look of their footage. Installing the Cinestyle preset on a Canon camera is a relatively simple process that can be completed in a few easy steps.</description>
-    </item>
-    <item>
-      <title>Improve video quality using neural networks</title>
-      <link>http://localhost:1313/posts/ai-video-upscale/</link>
-      <pubDate>Sun, 05 Mar 2023 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/posts/ai-video-upscale/</guid>
-      <description>Video upscaling, the process of increasing the resolution of a video, has been a popular technique for enhancing the viewing experience of older content. However, traditional upscaling techniques often result in blurry or pixelated images that lack the sharpness and detail of true high-resolution video.&#xA;Fortunately, advances neural networks have led to the development of more sophisticated upscaling algorithms that can produce remarkably detailed and clear images. These algorithms use machine learning models to analyze and reconstruct low-resolution video frames, filling in missing information and enhancing fine details.</description>
-    </item>
-    <item>
       <title>SkiMo - Monte della Neve</title>
-      <link>http://localhost:1313/mountain/montedellaneve/</link>
+      <link>https://bonoms.net/mountain/montedellaneve/</link>
       <pubDate>Sun, 26 Feb 2023 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/mountain/montedellaneve/</guid>
+      <guid>https://bonoms.net/mountain/montedellaneve/</guid>
       <description>Descrizione Una classica nelle zone livignasche. Partenza a &amp;ldquo;motore freddo&amp;rdquo; perché c&amp;rsquo;erano molti gradi sotto zero. Siamo poi scesi dalla pista in quanto le condizioni non erano ottimali.&#xA;Traccia Foto </description>
     </item>
     <item>
-      <title>How to analyze cycling power data with intervals.icu</title>
-      <link>http://localhost:1313/posts/powerdata/powerdata/</link>
-      <pubDate>Tue, 21 Feb 2023 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/posts/powerdata/powerdata/</guid>
-      <description>If you want to analyze your power data there&amp;rsquo;s a free online tool called intervals.icu, it is community based, open suorce and allows you to do amazing stuff. I made a quick video about it, sorry if quality is not the best. Some people told me music is too loud, i agree!!! But i&amp;rsquo;m too lazy to upload it again&amp;hellip; :)</description>
-    </item>
-    <item>
       <title>How to fuel in cycling, myth BUSTED!</title>
-      <link>http://localhost:1313/posts/carbs-intake/</link>
+      <link>https://bonoms.net/posts/carbs-intake/</link>
       <pubDate>Sun, 05 Feb 2023 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/posts/carbs-intake/</guid>
+      <guid>https://bonoms.net/posts/carbs-intake/</guid>
       <description>Every cycling daddy I know in the week-end goes out for 150k rides without eating&amp;hellip;&#xA;Carb the fuck up You might think that during low-intensity rides (regular pace for a &amp;gt;100k ride), your body primarily burns fat for fuel. While there&amp;rsquo;s truth to this, recent evidence suggests that even at low intensities, carbohydrates play a significant role in fueling your ride. Let&amp;rsquo;s break it down with some math:&#xA;Consider a comfortable Zone 2 (Z2) ride, averaging 200 watts for 2 hours.</description>
     </item>
     <item>
-      <title>The danger of AI</title>
-      <link>http://localhost:1313/posts/ai-and-its-problems/ai-and-its-problems/</link>
-      <pubDate>Tue, 17 Jan 2023 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/posts/ai-and-its-problems/ai-and-its-problems/</guid>
-      <description>Artificial intelligence (AI) is becoming increasingly ubiquitous in many areas of daily life, from speech recognition to self-driving cars. While this technology has the potential to improve the quality of human life in many ways, there are also concerns associated with its use. In particular, there is a growing concern about the negative implications of AI on society and humanity. In this article, we will explore some of the problems associated with AI and how they can be addressed.</description>
-    </item>
-    <item>
       <title>Who is bonoms?</title>
-      <link>http://localhost:1313/about/about/</link>
+      <link>https://bonoms.net/about/about/</link>
       <pubDate>Mon, 21 Nov 2022 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/about/about/</guid>
+      <guid>https://bonoms.net/about/about/</guid>
       <description>Welcome to my website! If you&amp;rsquo;re curious about who I am, u&amp;rsquo;re in the right spot.&#xA;I&amp;rsquo;ve changed a bit since then. Currently, I&amp;rsquo;m studying Physical Engineering at Politecnico di Milano and my home base is in Valtellina in the italian alps.</description>
     </item>
     <item>
       <title>Absolute Black CRAP oval chainring</title>
-      <link>http://localhost:1313/posts/crap/</link>
+      <link>https://bonoms.net/posts/crap/</link>
       <pubDate>Sat, 05 Feb 2022 10:54:08 +0200</pubDate>
-      <guid>http://localhost:1313/posts/crap/</guid>
+      <guid>https://bonoms.net/posts/crap/</guid>
       <description>Got some issues with absolute black oval chainring: shifting after not many km is impossible. Also issues with powermeter displaying too many watts :(( i&amp;rsquo;m gonna give a physical explaination soon</description>
     </item>
   </channel>
