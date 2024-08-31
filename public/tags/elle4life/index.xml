@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elle4life on bonoms.net</title>
+    <link>http://localhost:1313/tags/elle4life/</link>
+    <description>Recent content in Elle4life on bonoms.net</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>©Bonoms</copyright>
+    <lastBuildDate>Mon, 12 Aug 2024 10:54:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/elle4life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quando gli ELLE vogliono fare un roadtrip</title>
+      <link>http://localhost:1313/posts/elle-roadtrip/</link>
+      <pubDate>Mon, 12 Aug 2024 10:54:08 +0200</pubDate>
+      <guid>http://localhost:1313/posts/elle-roadtrip/</guid>
+      <description>Il mio socio Lorenzo Cattone (da ora in poi ELLE) martedì 23 luglio 2024 ha avuto l’idea di propormi un viaggio in macchina attraverso l’Europa. Il suo piano iniziale prevedeva un enorme itinerario che costeggiava praticamente tutti i paesi europei, con una media di 6 ore al giorno in auto e un totale di circa 5000 km. Abbiamo poi ridimensionato il tutto, considerando anche che avevamo solo una settimana di tempo per organizzare il viaggio.</description>
+    </item>
+  </channel>
+</rss>
