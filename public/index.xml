@@ -7,21 +7,35 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>©Bonoms</copyright>
-    <lastBuildDate>Thu, 29 Aug 2024 10:54:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 10:54:08 +0200</lastBuildDate>
     <atom:link href="https://bonoms.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gauss law</title>
+      <link>https://bonoms.net/posts/divergence/</link>
+      <pubDate>Fri, 25 Oct 2024 10:54:08 +0200</pubDate>
+      <guid>https://bonoms.net/posts/divergence/</guid>
+      <description>Gauss&amp;rsquo;s Law provides an elegant way to relate electric fields to the charges that create them. It’s one of the core equations in Maxwell’s set, capturing how electric fields is realated to his father generator and suorce: electric charges! Gauss&amp;rsquo;s Law can be incredibly useful in understanding and calculating electric fields in certain symmetrical situations, where it simplifies otherwise complex calculations that require hard work of integrals or numerical solutions. let&amp;rsquo;s be elegant</description>
+    </item>
+    <item>
       <title>Climbing - Mixomiceto - Val di Mello, Sponde del Ferro</title>
-      <link>https://bonoms.net/mountain/mixomiceto/</link>
+      <link>https://bonoms.net/posts/mixomiceto/</link>
       <pubDate>Thu, 29 Aug 2024 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/mixomiceto/</guid>
+      <guid>https://bonoms.net/posts/mixomiceto/</guid>
       <description>Info Interessante via storica di aderenza in Val di Mello, corta e consigliata se si ha tempo dopo aver completato un’altra via. Utili friend piccoli, 8 rinvii.&#xA;Avvicinamento In auto: Dopo aver raggiunto San Martino, parcheggiate nel parcheggio pubblico vicino all’InfoPoint di Val Masino. Se siete fortunati, potreste ottenere il biglietto di ingresso per accedere in macchina alla Val di Mello (sono consentite solo 40 auto giornaliere, quindi probabilmente sarà necessario proseguire a piedi).</description>
     </item>
     <item>
       <title>Alpinismo - Piz Argient</title>
-      <link>https://bonoms.net/mountain/piz-argient/</link>
+      <link>https://bonoms.net/posts/piz-argient/</link>
       <pubDate>Mon, 12 Aug 2024 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/piz-argient/</guid>
+      <guid>https://bonoms.net/posts/piz-argient/</guid>
       <description>Descrizione Altitudine: 3.943 mt&#xA;Tempo salita: 6h da Marinelli&#xA;Difficoltà: PD&#xA;Punto di appoggio: Rifugio Marinelli (2813 mt), Rifugio Marco e Rosa (3609 mt)&#xA;Il primo giorno parcheggiare l’auto presso le dighe di Campo Moro (Lanzada) e seguire il sentiero che porta al rifugio Marinelli (3h), dove si può pernottare. In alternativa, si può dormire al rifugio Marco e Rosa che è in ogni caso di strada: proseguire oltre il rifugio Marinelli seguendo il sentiero che porta al passo Marinelli occidentale.</description>
+    </item>
+    <item>
+      <title>Quando gli ELLE vogliono fare un roadtrip</title>
+      <link>https://bonoms.net/posts/elle-roadtrip/</link>
+      <pubDate>Mon, 12 Aug 2024 10:54:08 +0200</pubDate>
+      <guid>https://bonoms.net/posts/elle-roadtrip/</guid>
+      <description>Il mio socio Lorenzo Cattone (da ora in poi ELLE) martedì 23 luglio 2024 ha avuto l’idea di propormi un viaggio in macchina attraverso l’Europa. Il suo piano iniziale prevedeva un enorme itinerario che costeggiava praticamente tutti i paesi europei, con una media di 6 ore al giorno in auto e un totale di circa 5000 km. Abbiamo poi ridimensionato il tutto, considerando anche che avevamo solo una settimana di tempo per organizzare il viaggio.</description>
     </item>
     <item>
       <title>Sexy climbing gear</title>
@@ -39,23 +53,23 @@
     </item>
     <item>
       <title>Alpinismo - Cima Presanella</title>
-      <link>https://bonoms.net/mountain/presanella/</link>
+      <link>https://bonoms.net/posts/presanella/</link>
       <pubDate>Sun, 11 Jun 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/presanella/</guid>
+      <guid>https://bonoms.net/posts/presanella/</guid>
       <description>Descrizione Una scammellata di 12 ore, ottimo per chi non ha mai provato l&amp;rsquo;ambiente alta montagna e vuole avvicinarsi all&amp;rsquo;utilizzo di picca e ramponi (ovviamente necessari per questo itinerario). Difatti questa è stata la mia prima esperienza in alta quota, non scrivo altro perchè non ero molto attento ai passaggi e scrivo a distanza di mesi quindi questa non va assolutamente considerata come relazione, si possono però apprezzare le foto :)</description>
     </item>
     <item>
       <title>Skimo - Anticima Gavia &#43; Passo Nord Zebrù</title>
-      <link>https://bonoms.net/mountain/forni/</link>
+      <link>https://bonoms.net/posts/forni/</link>
       <pubDate>Sun, 12 Mar 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/forni/</guid>
+      <guid>https://bonoms.net/posts/forni/</guid>
       <description>Descrizione Belissima gita sulla strada innevata del passo gavia, il pendio è inizialmente molto dolve e si sviluppa bene. Ambiente top. Dopo aver dormito in rifugio il secondo giorno abbiamo girato per il passo zebrù trovando tuttavia neve molto ventata, abbiamo girato i tacchi e siamo andati a berci la birra.&#xA;Traccia anticima Gavia Traccia passo nord Zebrù Foto </description>
     </item>
     <item>
       <title>SkiMo - Monte della Neve</title>
-      <link>https://bonoms.net/mountain/montedellaneve/</link>
+      <link>https://bonoms.net/posts/montedellaneve/</link>
       <pubDate>Sun, 26 Feb 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/montedellaneve/</guid>
+      <guid>https://bonoms.net/posts/montedellaneve/</guid>
       <description>Descrizione Una classica nelle zone livignasche. Partenza a &amp;ldquo;motore freddo&amp;rdquo; perché c&amp;rsquo;erano molti gradi sotto zero. Siamo poi scesi dalla pista in quanto le condizioni non erano ottimali.&#xA;Traccia Foto </description>
     </item>
     <item>

@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mountains on bonoms.net</title>
-    <link>https://bonoms.net/mountain/</link>
+    <link>http://localhost:1313/mountain/</link>
     <description>Recent content in Mountains on bonoms.net</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>©Bonoms</copyright>
     <lastBuildDate>Thu, 29 Aug 2024 10:54:08 +0200</lastBuildDate>
-    <atom:link href="https://bonoms.net/mountain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mountain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Climbing - Mixomiceto - Val di Mello, Sponde del Ferro</title>
-      <link>https://bonoms.net/mountain/mixomiceto/</link>
+      <link>http://localhost:1313/mountain/mixomiceto/</link>
       <pubDate>Thu, 29 Aug 2024 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/mixomiceto/</guid>
+      <guid>http://localhost:1313/mountain/mixomiceto/</guid>
       <description>Info Interessante via storica di aderenza in Val di Mello, corta e consigliata se si ha tempo dopo aver completato un’altra via. Utili friend piccoli, 8 rinvii.&#xA;Avvicinamento In auto: Dopo aver raggiunto San Martino, parcheggiate nel parcheggio pubblico vicino all’InfoPoint di Val Masino. Se siete fortunati, potreste ottenere il biglietto di ingresso per accedere in macchina alla Val di Mello (sono consentite solo 40 auto giornaliere, quindi probabilmente sarà necessario proseguire a piedi).</description>
     </item>
     <item>
       <title>Alpinismo - Piz Argient</title>
-      <link>https://bonoms.net/mountain/piz-argient/</link>
+      <link>http://localhost:1313/mountain/piz-argient/</link>
       <pubDate>Mon, 12 Aug 2024 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/piz-argient/</guid>
+      <guid>http://localhost:1313/mountain/piz-argient/</guid>
       <description>Descrizione Altitudine: 3.943 mt&#xA;Tempo salita: 6h da Marinelli&#xA;Difficoltà: PD&#xA;Punto di appoggio: Rifugio Marinelli (2813 mt), Rifugio Marco e Rosa (3609 mt)&#xA;Il primo giorno parcheggiare l’auto presso le dighe di Campo Moro (Lanzada) e seguire il sentiero che porta al rifugio Marinelli (3h), dove si può pernottare. In alternativa, si può dormire al rifugio Marco e Rosa che è in ogni caso di strada: proseguire oltre il rifugio Marinelli seguendo il sentiero che porta al passo Marinelli occidentale.</description>
     </item>
     <item>
       <title>Alpinismo - Cima Presanella</title>
-      <link>https://bonoms.net/mountain/presanella/</link>
+      <link>http://localhost:1313/mountain/presanella/</link>
       <pubDate>Sun, 11 Jun 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/presanella/</guid>
+      <guid>http://localhost:1313/mountain/presanella/</guid>
       <description>Descrizione Una scammellata di 12 ore, ottimo per chi non ha mai provato l&amp;rsquo;ambiente alta montagna e vuole avvicinarsi all&amp;rsquo;utilizzo di picca e ramponi (ovviamente necessari per questo itinerario). Difatti questa è stata la mia prima esperienza in alta quota, non scrivo altro perchè non ero molto attento ai passaggi e scrivo a distanza di mesi quindi questa non va assolutamente considerata come relazione, si possono però apprezzare le foto :)</description>
     </item>
     <item>
       <title>Skimo - Anticima Gavia &#43; Passo Nord Zebrù</title>
-      <link>https://bonoms.net/mountain/forni/</link>
+      <link>http://localhost:1313/mountain/forni/</link>
       <pubDate>Sun, 12 Mar 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/forni/</guid>
+      <guid>http://localhost:1313/mountain/forni/</guid>
       <description>Descrizione Belissima gita sulla strada innevata del passo gavia, il pendio è inizialmente molto dolve e si sviluppa bene. Ambiente top. Dopo aver dormito in rifugio il secondo giorno abbiamo girato per il passo zebrù trovando tuttavia neve molto ventata, abbiamo girato i tacchi e siamo andati a berci la birra.&#xA;Traccia anticima Gavia Traccia passo nord Zebrù Foto </description>
     </item>
     <item>
       <title>SkiMo - Monte della Neve</title>
-      <link>https://bonoms.net/mountain/montedellaneve/</link>
+      <link>http://localhost:1313/mountain/montedellaneve/</link>
       <pubDate>Sun, 26 Feb 2023 10:54:08 +0200</pubDate>
-      <guid>https://bonoms.net/mountain/montedellaneve/</guid>
+      <guid>http://localhost:1313/mountain/montedellaneve/</guid>
       <description>Descrizione Una classica nelle zone livignasche. Partenza a &amp;ldquo;motore freddo&amp;rdquo; perché c&amp;rsquo;erano molti gradi sotto zero. Siamo poi scesi dalla pista in quanto le condizioni non erano ottimali.&#xA;Traccia Foto </description>
     </item>
   </channel>

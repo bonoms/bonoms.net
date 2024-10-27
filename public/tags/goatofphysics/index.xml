@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoatOfPhysics on bonoms.net</title>
+    <link>https://bonoms.net/tags/goatofphysics/</link>
+    <description>Recent content in GoatOfPhysics on bonoms.net</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>©Bonoms</copyright>
+    <lastBuildDate>Fri, 25 Oct 2024 10:54:08 +0200</lastBuildDate>
+    <atom:link href="https://bonoms.net/tags/goatofphysics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gauss law</title>
+      <link>https://bonoms.net/posts/divergence/</link>
+      <pubDate>Fri, 25 Oct 2024 10:54:08 +0200</pubDate>
+      <guid>https://bonoms.net/posts/divergence/</guid>
+      <description>Gauss&amp;rsquo;s Law provides an elegant way to relate electric fields to the charges that create them. It’s one of the core equations in Maxwell’s set, capturing how electric fields is realated to his father generator and suorce: electric charges! Gauss&amp;rsquo;s Law can be incredibly useful in understanding and calculating electric fields in certain symmetrical situations, where it simplifies otherwise complex calculations that require hard work of integrals or numerical solutions. let&amp;rsquo;s be elegant</description>
+    </item>
+  </channel>
+</rss>
