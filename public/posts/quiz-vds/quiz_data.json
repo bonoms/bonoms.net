@@ -1,0 +1,32 @@
+{
+    "questions": [
+      {
+        "question": "Chi può praticare autonomamente il volo libero?",
+        "answers": [
+          "Chiunque può praticare quest’attività sportiva purché abbia frequentato un apposito corso.",
+          "Chiunque, munito dei requisiti richiesti dalle norme in vigore (Attestato in corso di validità e copertura assicurativa RCT).",
+          "Chiunque può praticare quest’attività purché abbia superato un esame Ae.C.I."
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Qual è l’età minima, previo consenso dei genitori, per la pratica del Volo Libero?",
+        "answers": [
+          "14 anni.",
+          "18 anni.",
+          "16 anni."
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Il Certificato Medico ha normalmente validità di?",
+        "answers": [
+          "18 mesi.",
+          "24 mesi.",
+          "36 mesi."
+        ],
+        "correct": 1
+      }
+    ]
+  }
+  

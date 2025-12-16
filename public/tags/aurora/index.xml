@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurora on bonoms.net</title>
+    <link>https://bonoms.net/tags/aurora/</link>
+    <description>Recent content in Aurora on bonoms.net</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>©Bonoms</copyright>
+    <lastBuildDate>Mon, 12 Aug 2024 10:54:08 +0200</lastBuildDate>
+    <atom:link href="https://bonoms.net/tags/aurora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aurora explained from quantum mechanical standpoint</title>
+      <link>https://bonoms.net/posts/aurora/</link>
+      <pubDate>Mon, 12 Aug 2024 10:54:08 +0200</pubDate>
+      <guid>https://bonoms.net/posts/aurora/</guid>
+      <description>&lt;p&gt;It was very fascinating to see for the first time the aurora, something that affects such so much the nature and at the same time can only be seen at very large longitutes. Very uncommon for middle longituted men.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a brief dive into physical description of aurora, might use this as my thesis in the future. Quantum description is done in a semi-classical view, electromagnetic field is treated completely classic but sufficient to explain the phenomenon without over-complicated math. However atoms are handled as pure quantum objects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

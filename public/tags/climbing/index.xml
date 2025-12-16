@@ -7,21 +7,28 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>©Bonoms</copyright>
-    <lastBuildDate>Thu, 29 Aug 2024 10:54:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 10:54:08 +0200</lastBuildDate>
     <atom:link href="https://bonoms.net/tags/climbing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Climbing in Valtellina</title>
+      <link>https://bonoms.net/posts/climbing_valtellina/</link>
+      <pubDate>Tue, 16 Dec 2025 10:54:08 +0200</pubDate>
+      <guid>https://bonoms.net/posts/climbing_valtellina/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Valtellina is a long alpine valley located in the far north of Italy, bordering Switzerland. It is approximately two hours by car or train from Milan, which serves as the main international travel hub. The valley offers a wide range of mountain sports, yet it remains largely undocumented for non-Italian visitors.&lt;/p&gt;&#xA;&lt;p&gt;Climbing in Valtellina ranges from technical granite slab climbing to steep limestone walls, with sport, traditional, and long multi-pitch routes available. Most climbing areas lie within one hour’s drive from the main town of Sondrio and are far less crowded than more famous destinations such as the Dolomites or the Mont Blanc massif.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Climbing - Mixomiceto - Val di Mello, Sponde del Ferro</title>
       <link>https://bonoms.net/posts/mixomiceto/</link>
       <pubDate>Thu, 29 Aug 2024 10:54:08 +0200</pubDate>
       <guid>https://bonoms.net/posts/mixomiceto/</guid>
-      <description>Info Interessante via storica di aderenza in Val di Mello, corta e consigliata se si ha tempo dopo aver completato un’altra via. Utili friend piccoli, 8 rinvii.&#xA;Avvicinamento In auto: Dopo aver raggiunto San Martino, parcheggiate nel parcheggio pubblico vicino all’InfoPoint di Val Masino. Se siete fortunati, potreste ottenere il biglietto di ingresso per accedere in macchina alla Val di Mello (sono consentite solo 40 auto giornaliere, quindi probabilmente sarà necessario proseguire a piedi).</description>
+      <description>&lt;h2 id=&#34;info&#34;&gt;Info&lt;/h2&gt;&#xA;&lt;p&gt;Interessante via storica di aderenza in Val di Mello, corta e consigliata se si ha tempo dopo aver completato un’altra via. Utili friend piccoli, 8 rinvii.&lt;/p&gt;&#xA;&lt;h2 id=&#34;avvicinamento&#34;&gt;Avvicinamento&lt;/h2&gt;&#xA;&lt;p&gt;In auto: Dopo aver raggiunto San Martino, parcheggiate nel parcheggio pubblico vicino all’InfoPoint di Val Masino. Se siete fortunati, potreste ottenere il biglietto di ingresso per accedere in macchina alla Val di Mello (sono consentite solo 40 auto giornaliere, quindi probabilmente sarà necessario proseguire a piedi). In ogni caso, proseguite lungo la strada seguendo indicazioni per Val di Mello, fermarsi  al parcheggio. Poco prima, a livello del torrente, imboccate il sentiero che sale; proseguite per una decina di minuti fino a trovare una deviazione sulla destra, che conduce a una cascata. Guadate il fiume. L’attacco della via si trova sulla destra, sopra un panettone di roccia, tenendo la pozza di fronte a voi.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sexy climbing gear</title>
       <link>https://bonoms.net/posts/math-and-cams/</link>
       <pubDate>Sat, 22 Jun 2024 10:54:08 +0200</pubDate>
       <guid>https://bonoms.net/posts/math-and-cams/</guid>
-      <description>I think I&amp;rsquo;m in love with this piece of gear. It uses a logarithmic spiral to convert downward force into a normal force on the sides. Physically, it holds independent of the pull force, as shown in the next photo. The condition only takes into account the friction coefficient. It can work in perfectly parallel cracks witch is amazing.&#xA;A logaritmic spyral is a curuve with this parametric equation in cartesian coordinates:</description>
+      <description>&lt;p&gt;I think I&amp;rsquo;m in love with this piece of gear. It uses a logarithmic spiral to convert downward force into a normal force on the sides. Physically, it holds independent of the pull force, as shown in the next photo. The condition only takes into account the friction coefficient. It can work in perfectly parallel cracks witch is amazing.&lt;/p&gt;&#xA;&lt;p&gt;A logaritmic spyral is a curuve with this parametric equation in cartesian coordinates:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

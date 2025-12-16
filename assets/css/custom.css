@@ -1,0 +1,29 @@
+/* Custom tweaks for inline figure images */
+.inline-figure {
+  margin: 2rem auto;
+  max-width: 640px;
+  border: none;
+  outline: none;
+}
+
+.inline-figure__image {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+}
+
+.inline-figure figcaption {
+  font-size: 0.9rem;
+  text-align: center;
+  color: var(--primary, #666);
+  margin-top: 0.35rem;
+}
+
+.list-item .excerpt {
+  font-size: 0.95rem;
+  color: var(--primary, #555);
+  margin: 0.35rem 0 0.6rem;
+}

@@ -14,7 +14,7 @@
       <link>https://bonoms.net/posts/divergence/</link>
       <pubDate>Thu, 05 Dec 2024 10:54:08 +0200</pubDate>
       <guid>https://bonoms.net/posts/divergence/</guid>
-      <description>Dato che la prof aveva fatto solo le onde sferiche e piane ho pensato di ricavare quelle cilindriche. Mi sono spaccato il culo di calcoli per farlo quindi almeno lo condivido.&#xA;Consideriamo l’equazione delle onde in uno spazio 3d, con una sorgente distribuita lungo l’asse $z$, in modo da non avere dipendenza né dalla coordinata $z$ né dall’angolo $\phi$. In tal caso, la funzione d’onda $u(x,y,t)$ dipende solo dalla distanza radiale $r = \sqrt{x^2 + y^2}$ dal filo e dal tempo $t$, come intuitivamente ci aspettiamo.</description>
+      <description>&lt;p&gt;Consideriamo l’equazione delle onde in uno spazio 3d, con una sorgente distribuita lungo l’asse $z$, in modo da non avere dipendenza né dalla coordinata $z$ né dall’angolo $\phi$. In tal caso, la funzione d’onda $u(x,y,t)$ dipende solo dalla distanza radiale $r = \sqrt{x^2 + y^2}$ dal filo e dal tempo $t$, come intuitivamente ci aspettiamo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;equazione-delle-onde-in-coordinate-cilindriche&#34;&gt;Equazione delle onde in coordinate cilindriche&lt;/h2&gt;&#xA;&lt;p&gt;L’equazione delle onde nel vuoto (senza sorgenti) è:&#xA;$$&#xA;\frac{\partial^2 u}{\partial t^2} = c^2 \nabla^2 u.&#xA;$$&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

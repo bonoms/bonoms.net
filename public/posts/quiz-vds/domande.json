@@ -1,0 +1,139 @@
+[
+    {
+        "id": "1001",
+        "text": "Chi può praticare autonomamente il volo libero?",
+        "options": [
+            "Chiunque può praticare quest’attività sportiva purché abbia frequentato un apposito corso",
+            "Chiunque, munito dei requisiti richiesti dalle norme in vigore (Attestato in corso di validità e copertura assicurativa RCT)",
+            "Chiunque può praticare quest’attività purché abbia superato un esame Ae.C.I."
+        ],
+        "correct": 1,
+        "section": "Normativa"
+    },
+    {
+        "id": "1002",
+        "text": "Chi è l’unico responsabile della condotta del deltaplano e del parapendio?",
+        "options": [
+            "Il pilota",
+            "Il pilota, ma solo se dotato di sufficiente esperienza",
+            "L’Ente di Controllo del Traffico Aereo"
+        ],
+        "correct": 0,
+        "section": "Normativa"
+    },
+
+
+    {
+        "id": "2001",
+        "text": "Che cosa studia l'aerodinamica?",
+        "options": [
+            "Le leggi della dinamica dei fluidi",
+            "Le leggi che regolano il moto di corpi solidi immersi in un fluido gassoso",
+            "Lo spostamento delle masse d'aria nell'atmosfera terrestre"
+        ],
+        "correct": 1,
+        "section": "Aerodinamica"
+    },
+    {
+        "id": "2002",
+        "text": "Che cosa è un'ala?",
+        "options": [
+            "È un corpo di forma prestabilita che genera portanza aerodinamica in ogni condizione",
+            "È un corpo di forma appropriata che posto in movimento rispetto all'aria genera forze aerodinamiche",
+            "È un corpo di forma qualsiasi che genera solo portanza quando posto in movimento rispetto all'aria"
+        ],
+        "correct": 1,
+        "section": "Aerodinamica"
+    },
+
+
+    {
+        "id": "3001",
+        "text": "Quale comportamento è auspicabile appena effettuato un soccorso d’emergenza?",
+        "options": [
+            "Si trasporta il ferito all’ospedale con qualsiasi mezzo disponibile seguendolo da vicino",
+            "Far trasportare all’ospedale con mezzo idoneo ed abilitato l’infortunato prendendosi cura dei suoi effetti personali ed avvisando al più presto i suoi parenti più prossimi",
+            "Una volta chiamate si attende che giungano le autorità di polizia e si lascia a esse ogni incombenza"
+        ],
+        "correct": 1,
+        "section": "Pronto Soccorso"
+    },
+
+
+    {
+        "id": "4001",
+        "text": "Come varia la pressione parziale dell’ossigeno a livello polmonare, al variare dell’altitudine?",
+        "options": [
+            "Diminuisce all’aumentare dell’altitudine",
+            "Diminuisce all’aumentare dell’altitudine, ma non scende mai sotto valori di guardia",
+            "Aumenta all’aumentare dell’altitudine"
+        ],
+        "correct": 0,
+        "section": "Fisiopatologia"
+    },
+
+
+    {
+        "id": "5001",
+        "text": "Che cosa è l’atmosfera?",
+        "options": [
+            "È la massa gassosa che sovrasta la superficie terrestre e la cui altezza è praticamente illimitata",
+            "È la massa gassosa che sovrasta la superficie terrestre e la cui altezza è 12 km",
+            "È la massa gassosa di altezza ben definita che sovrasta la superficie terrestre la cui parte inferiore si definisce troposfera"
+        ],
+        "correct": 2,
+        "section": "Meteorologia"
+    },
+
+
+    {
+        "id": "6001",
+        "text": "Che cos’è l’altimetro?",
+        "options": [
+            "È lo strumento che misura sempre la distanza di un apparecchio dal suolo",
+            "È lo strumento che misura la velocità verticale di un apparecchio",
+            "È lo strumento che misura l’altitudine di un apparecchio rispetto ad un punto noto come, ad esempio, il livello del mare"
+        ],
+        "correct": 2,
+        "section": "Strumenti"
+    },
+
+
+    {
+        "id": "7001",
+        "text": "Prima di recarsi al decollo in atterraggio è necessario:",
+        "options": [
+            "Verificare le condizioni del terreno",
+            "Verificare le condizioni del terreno e del vento, mettere una manica a vento se non c’è",
+            "Lasciare in atterraggio mezzi e/o persone per il recupero dopo il volo"
+        ],
+        "correct": 0,
+        "section": "Tecnica di Pilotaggio"
+    },
+
+    {
+        "id": "8001",
+        "text": "È più preoccupante un taglio sulla superficie del parapendio in corrispondenza:",
+        "options": [
+            "Della parte anteriore centrale dell’estradosso",
+            "Della parte posteriore laterale dell’estradosso",
+            "Della parte posteriore laterale dell’intradosso"
+        ],
+        "correct": 2,
+        "section": "Materiali"
+    },
+
+
+    {
+        "id": "9001",
+        "text": "La sicurezza del volo in deltaplano e parapendio dipende moltissimo dal rapporto esistente tra esperienza del pilota e caratteristiche del mezzo utilizzato?",
+        "options": [
+            "Si",
+            "Assolutamente no",
+            "Si, ma solo se si tratta di volo in condizioni forti"
+        ],
+        "correct": 0,
+        "section": "Sicurezza"
+    }
+
+]
